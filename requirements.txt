@@ -1,0 +1,5 @@
+###### Requirements with Version Specifiers ######
+python-dotenv ~= 1.0
+faktory ~= 1.0
+requests ~= 2.31
+psycopg2-binary ~= 2.9
