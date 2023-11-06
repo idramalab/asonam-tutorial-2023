@@ -12,9 +12,9 @@ This repository contains a functioning 4chan crawler with the following caveats:
 
 `pip install -r requirements.txt`
 
-The most straight forward way to get Faktory and Postgres running on a development environment is via Docker.
-
 ## Postgres
+
+The most straight forward way to get Postgres running on a development environment is via Docker.
 
 Pull the Postgres 14 image (newer versions should be fine as well):
 
