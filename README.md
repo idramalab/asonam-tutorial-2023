@@ -1,11 +1,13 @@
 # 4chan Crawler
 
-This repository contains a functioning 4chan crawler with the following caveats:
+As part of the [iDRAMA.cloud](https://idrama.cloud) project, we have put together this tutorial to help people build continuous data collection systems.
+
+In addition to slides, this repository contains a functioning 4chan crawler with the following caveats:
 
 * It is not optimized, especially with respect to database related operations.
 * There is approximately zero error handling. You must be aware that at scale and over time, there will be a variety of errors, ranging from transient network issues to failures on the remote side to odd and unexpected issues with data.
 * Documentation is very much lacking.
-* I do not like Python and do not use it.
+* I do not like Python and do not regularly use it.
 * The design of this crawler is one of many possible and valid designs, and it has many limitations. That said, it works in approximately the same fashion as to our production crawler, but our production crawler makes use of other features of the [4chan API](https://github.com/4chan/4chan-API) to, e.g., handle boards that don't have an archive.
 
 ## Install
@@ -74,3 +76,4 @@ Next, initialize a job to crawl /pol/ by running:
 Finally, start up the the actual crawler by running:
 
 `python chan_crawler.py`
+
