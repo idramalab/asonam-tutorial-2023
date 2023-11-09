@@ -40,7 +40,7 @@ I personally use [sqlx](https://github.com/launchbadge/sqlx), but that is becaus
 
 There are many other choices you go with, but this project uses sqlx.
 
-The most straight forward way to get the sqlx cli program is to first get a local Rust environment by following the installation instructions (https://www.rust-lang.org/learn/get-started).
+The most straight forward way to get the sqlx cli program is to first get a local Rust environment by following the [installation instructions](https://www.rust-lang.org/learn/get-started).
 
 Next, install the sqlx cli:
 
