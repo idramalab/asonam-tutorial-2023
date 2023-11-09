@@ -50,7 +50,7 @@ You should look at `sqlx --help` as well as the [README](https://github.com/laun
 
 ## Running things.
 
-First, create a `.env`` file so we don't store credentials in our repository.
+First, create a `.env` file so we don't store credentials in our repository.
 
 `mkdir .env`
 
