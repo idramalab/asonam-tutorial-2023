@@ -1,6 +1,6 @@
-# 4chan Crawler
+# Building a Continuous Social Media Data Collection System![image](https://github.com/idramalab/asonam-tutorial-2023/assets/6434/a94ea7a9-8daa-4a21-ac79-e7a9147aea7e)
 
-As part of the [iDRAMA.cloud](https://idrama.cloud) project, we have put together this tutorial to help people build continuous data collection systems.
+As part of the [iDRAMA.cloud](https://idrama.cloud) project, we have put together this tutorial (originally [presented](https://asonam.cpsc.ucalgary.ca/2023/2023_asonam_program.pdf) at [ASONAM 2023](https://asonam.cpsc.ucalgary.ca/2023/) to help people build continuous data collection systems.
 
 In addition to slides, this repository contains a functioning 4chan crawler with the following caveats:
 
