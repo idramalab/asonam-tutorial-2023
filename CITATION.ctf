@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jeremy"
+  given-names: "Blackburn"
+  orcid: "https://orcid.org/0000-0002-4223-1304"
+title: "Building a Continuous Social Media Data Collection System"
+version: 2.0.4
+date-released: 2023-11-06
+url: "https://github.com/idramalab/asonam-tutorial-2023"
